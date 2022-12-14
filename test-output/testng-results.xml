@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T03:08:34 IST" name="Default suite" finished-at="2022-12-15T03:09:44 IST" duration-ms="69729">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T03:08:34 IST" name="Default test" finished-at="2022-12-15T03:09:44 IST" duration-ms="69729">
+      <class name="subratpattanaik.api_demo_test.Exploring_AppSection">
+        <test-method is-config="true" signature="openAppium()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:08:34 IST" name="openAppium" finished-at="2022-12-15T03:08:45 IST" duration-ms="10656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppium -->
+        <test-method signature="ActivityDialogTest()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:08:45 IST" name="ActivityDialogTest" finished-at="2022-12-15T03:08:51 IST" duration-ms="6405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActivityDialogTest -->
+        <test-method is-config="true" signature="stopServer()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:08:51 IST" name="stopServer" finished-at="2022-12-15T03:08:52 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+        <test-method is-config="true" signature="openAppium()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:08:52 IST" name="openAppium" finished-at="2022-12-15T03:09:01 IST" duration-ms="9284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppium -->
+        <test-method signature="ActivityFinishAffinityTest()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:01 IST" name="ActivityFinishAffinityTest" finished-at="2022-12-15T03:09:09 IST" duration-ms="8031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActivityFinishAffinityTest -->
+        <test-method is-config="true" signature="stopServer()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:09 IST" name="stopServer" finished-at="2022-12-15T03:09:09 IST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+        <test-method is-config="true" signature="openAppium()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:09 IST" name="openAppium" finished-at="2022-12-15T03:09:19 IST" duration-ms="9365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppium -->
+        <test-method signature="ActivityHelloWorldValidation()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:19 IST" name="ActivityHelloWorldValidation" finished-at="2022-12-15T03:09:25 IST" duration-ms="6224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActivityHelloWorldValidation -->
+        <test-method is-config="true" signature="stopServer()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:25 IST" name="stopServer" finished-at="2022-12-15T03:09:25 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+        <test-method is-config="true" signature="openAppium()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:25 IST" name="openAppium" finished-at="2022-12-15T03:09:35 IST" duration-ms="9362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppium -->
+        <test-method signature="ActivityPresenationTest()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:35 IST" name="ActivityPresenationTest" finished-at="2022-12-15T03:09:43 IST" duration-ms="8333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActivityPresenationTest -->
+        <test-method is-config="true" signature="stopServer()[pri:0, instance:subratpattanaik.api_demo_test.Exploring_AppSection@71def8f8]" started-at="2022-12-15T03:09:43 IST" name="stopServer" finished-at="2022-12-15T03:09:44 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+      </class> <!-- subratpattanaik.api_demo_test.Exploring_AppSection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
